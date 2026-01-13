@@ -62,7 +62,7 @@ const Navbar: React.FC = () => {
             to="/admin" 
             className="px-5 py-2 border border-brand-wood text-brand-wood text-xs hover:bg-brand-wood hover:text-white transition-all duration-300 rounded-sm uppercase tracking-widest"
           >
-            Manager
+            Admin
           </Link>
         </nav>
 
